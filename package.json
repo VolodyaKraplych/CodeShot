@@ -17,14 +17,6 @@
   "keywords": [],
   "author": "Volodymyr Kraplych",
   "license": "GPL-3.0-or-later",
-  "devEngines": {
-    "packageManager": {
-      "name": "pnpm",
-      "version": "12.16.1",
-      "onFail": "download"
-    }
-  },
-  "packageManager": "pnpm@12.16.1",
   "type": "module",
   "dependencies": {
     "@codemirror/autocomplete": "^6.20.4",
